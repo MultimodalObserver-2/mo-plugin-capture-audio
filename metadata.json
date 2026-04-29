@@ -1,0 +1,31 @@
+{
+  "id": "audio-recorder",
+  "name": "Audio Recorder",
+  "description": "Audio recording from the microphone in WAV format, with start/pause/resume/stop control and sample rate and device options.",
+  "version": "0.1.0",
+  "publisher": {
+    "id": "interaction-lab",
+    "name": "InTeractiOn Lab",
+    "url": "https://interaction-lab.info"
+  },
+  "repository": "https://github.com/MultimodalObserver-2/mo-plugin-capture-audio",
+  "author": {
+    "name": "Camila Carabajal",
+    "email": "camila.carabajal@usach.cl"
+  },
+  "icon": {
+    "dark": "icons/dark.svg",
+    "light": "icons/light.svg"
+  },
+  "locales": "locales",
+  "platform": {
+    "linux": true,
+    "windows": true,
+    "mac": true
+  },
+  "entryPoints": {
+    "mo.plugin": "src.audio_recorder.main:AudioRecorderPlugin",
+    "mo.plugin.properties": "src.audio_recorder.properties:get_properties"
+  },
+  "target": "api"
+}

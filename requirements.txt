@@ -1,0 +1,6 @@
+numpy==1.26.4
+sounddevice==0.5.1
+pydantic==2.11.5
+python-i18n
+platformdirs
+soundfile

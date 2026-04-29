@@ -1,0 +1,20 @@
+{
+    "all_microphones": "Todos lo micrófonos disponibles",
+    "microphone_n": "Micrófono %{n}",
+    "no_input_devices": "No se encontraron dispositivos de entrada",
+    "select_microphone": "Seleccionar micrófono",
+    "sample_rate": "Frecuencia de muestreo (Hz)",
+    "channels": "Canales de audio",
+    "mono": "Mono (1 canal)",
+    "stereo": "Estéreo (2 canales)",
+    "record_controls": {
+        "start": "Iniciar grabación",
+        "pause": "Pausar",
+        "resume": "Reanudar grabación",
+        "stop": "Detener grabación"
+    },
+    "format": "Formato de salida",
+    "formats": {
+        "wav": "Wav - Formato sin comprensión, alta calidad"
+    }
+}

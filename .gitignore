@@ -1,0 +1,21 @@
+# Virtual environments
+.venv
+venv
+env
+
+# Python cache files
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# Build files
+dist
+*.egg-info
+pip-wheel-metadata
+libs
+
+# IDE & editor files
+.vscode
+.idea
+*.iml
