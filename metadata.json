@@ -2,7 +2,7 @@
   "id": "audio-recorder",
   "name": "Audio Recorder",
   "description": "Audio recording from the microphone in WAV format, with start/pause/resume/stop control and sample rate and device options.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "publisher": {
     "id": "interaction-lab",
     "name": "InTeractiOn Lab",
